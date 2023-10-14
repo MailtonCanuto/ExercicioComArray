@@ -1,0 +1,15 @@
+F:\Projetos Csharp\exerciciocomarray\bin\Debug\net8.0\exerciciocomarray.exe
+F:\Projetos Csharp\exerciciocomarray\bin\Debug\net8.0\exerciciocomarray.deps.json
+F:\Projetos Csharp\exerciciocomarray\bin\Debug\net8.0\exerciciocomarray.runtimeconfig.json
+F:\Projetos Csharp\exerciciocomarray\bin\Debug\net8.0\exerciciocomarray.dll
+F:\Projetos Csharp\exerciciocomarray\bin\Debug\net8.0\exerciciocomarray.pdb
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.AssemblyInfoInputs.cache
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.AssemblyInfo.cs
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.csproj.CoreCompileInputs.cache
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.sourcelink.json
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.dll
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\refint\exerciciocomarray.dll
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.pdb
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\exerciciocomarray.genruntimeconfig.cache
+F:\Projetos Csharp\exerciciocomarray\obj\Debug\net8.0\ref\exerciciocomarray.dll
